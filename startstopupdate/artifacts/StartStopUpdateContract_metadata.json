@@ -85,11 +85,11 @@
 	},
 	"sources": {
 		"startstopupdate/StartStopAndUpdate.sol": {
-			"keccak256": "0xeca20b76d00ff6e7d63d1d30e03e0d996c0339a1e39ecbc447766c25e8b1a465",
+			"keccak256": "0x7e390a79b01cb02cf15f160d21a4fccad8565c043aa69aa57e7ed1b4996b0fc9",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://4375a44a9528d7dc1919371b95ae7d83c7fd278677f99c0d8615bb999f646702",
-				"dweb:/ipfs/QmUpSiiCFgfg2JdmJTCP9wg4LWxQMVwgRAbqAMZnA5ZS7X"
+				"bzz-raw://403eef721028312d608c23d0ebe13447ce7a8d697bce201abb1785fc10ade9b5",
+				"dweb:/ipfs/QmcZDZLjkTEA9r5s6Hmm3thB5uXq18TBGoFJkKYRLK5R1y"
 			]
 		}
 	},

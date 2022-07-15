@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.4.16 <0.9.0;
+pragma solidity >=0.5.14 <0.9.0;
 
 // first contract
 contract StartStopUpdateContract {
