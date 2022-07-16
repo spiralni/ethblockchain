@@ -1,2 +1,0 @@
-# ethblockchain
-Solidity contract samples.
