@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sendmoney/SendMoneyDemo.sol": "Se"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sendmoney/SendMoneyDemo.sol": {
+			"keccak256": "0x359fae4a7e39b3ad1ba31776ac76e067915852bedc757a77b889794c34bc8c30",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5ddfcc8a1a54903dbf707e360c50c990fdb0882c9acafab96acfa65b93b2cc4d",
+				"dweb:/ipfs/QmfAPFfDisoY5r4Xp1ikT1WnsU8zZg1CCi41ZL65soRvrH"
+			]
+		}
+	},
+	"version": 1
+}
